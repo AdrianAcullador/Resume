@@ -1,0 +1,14 @@
+{
+  "name": "resume-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "install": "cd client && npm install",
+    "build": "cd client && npm run build",
+    "start": "cd client && npm run dev",
+    "preview": "cd client && npm run preview"
+  }
+}
